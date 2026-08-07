@@ -2,7 +2,7 @@
 
 This repository contains a three-stage validation of MHTran natural-hazard exposure metrics against historical U.S. power outage observations from EAGLE-I and NOAA Storm Events.
 
-The analysis evaluates whether modeled natural-hazard exposure corresponds with observed county-level outage patterns across the United States.
+The analysis evaluates whether modeled natural-hazard exposure corresponds with observed county-level outage patterns across the contiguous United States.
 
 ## Research Questions
 
@@ -87,8 +87,8 @@ MHTran-validation/
 │   ├── stage2_validation.py
 │   └── stage3_validation.py
 │
-├── data/
-│   └── README.md
+├── docs/
+│   └── data.md
 │
 └── results/
     ├── figures/
@@ -106,7 +106,7 @@ The analysis uses:
 - NOAA Storm Events
 - U.S. Census Bureau county boundaries
 
-See `data/README.md` for the expected local data structure and filenames.
+See [`docs/data.md`](docs/data.md) for the expected local data structure and filenames.
 
 ## Installation
 
