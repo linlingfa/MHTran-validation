@@ -1,0 +1,10 @@
+Hazard,Exposure_Metric,Spearman_rho_Frequency,Hotspot_Overlap_Frequency_pct,Spearman_rho_Severity,Hotspot_Overlap_Severity_pct
+Flood,flood_depth_m,0.246,13.9,0.256,10.9
+FZG,R_50RP,-0.067,4.0,-0.110,3.0
+Hail,hail_rate,0.197,9.8,0.146,7.6
+Landslide,ls_susc,0.207,12.9,0.224,14.9
+Lightning,ltng_rate,0.072,20.8,0.061,25.7
+Seismic,pga_475,0.043,7.9,0.079,10.9
+Tornado,annual_hit_rate,0.085,8.3,0.086,0.0
+Wildfire,whp_cnt,0.208,18.2,0.251,15.6
+Wind,pe_5pct_maxwind,0.110,30.0,0.206,40.0

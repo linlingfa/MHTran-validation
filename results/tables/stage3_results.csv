@@ -1,0 +1,15 @@
+Metric,Value
+Counties_Evaluated,2018
+Spearman_rho,0.266
+Spearman_p_value,3.7604427820993956e-34
+Model_Hotspots,100
+Observed_Hotspots,100
+Hotspot_Overlap_pct,8.0
+GWR_Bandwidth,46
+Global_R2,0.049
+Global_Coefficient_beta,0.375
+Global_p_value,<0.001
+GWR_R2,0.541
+GWR_Adjusted_R2,0.483
+Local_Coefficient_Min,-2.502
+Local_Coefficient_Max,3.592

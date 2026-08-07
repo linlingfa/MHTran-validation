@@ -1,0 +1,6 @@
+Hazard,NOAA_Event_Count,Exposure_Metric,NOAA_Event_Types,Attribution_Window_Hours,Spearman_rho_Max,Hotspot_Overlap_Max_pct,Spearman_rho_Mean,Hotspot_Overlap_Mean_pct
+Flood,95768,flood_depth_m,"Flood; Flash Flood; Heavy Rain",24,0.223,11.9,0.210,9.9
+Hail,107014,hail_rate,Hail,24,0.451,34.8,0.400,30.4
+Landslide,1363,ls_susc,Debris Flow,48,0.179,29.7,0.172,29.7
+Lightning,3861,ltng_rate,Lightning,24,0.089,20.8,0.078,19.8
+Tornado,17543,annual_hit_rate,Tornado,24,0.203,8.3,0.202,8.3
